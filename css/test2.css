@@ -1,0 +1,32 @@
+body{
+    background-color: red;
+}
+.sec1, .sec2, .sec3{
+    width: 350px;
+}
+
+.sec1{
+    float: right;
+}
+
+.sec2{
+    float: right;
+}
+
+.sec3{
+    float: right;
+}
+
+/* .sec1{
+    float: right;
+}
+
+.sec3{
+    float: right;
+} */
+
+
+
+h1{
+    font-size: 50px;
+}
